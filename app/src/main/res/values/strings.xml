@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Allonsy</string>
+    <string name="loading">Loading</string>
+
+
+    <string name="login_with">Login With</string>
+    <string name="skip">Skip It</string>
+    <string name="foodie">Foodie</string>
+    <string name="religious">Religious</string>
+    <string name="thrilling">Thrilling</string>
+    <string name="chilling">Chilling</string>
+    <string name="trekking">Trekking</string>
+    <string name="entertainment">Entertainment</string>
+
+    <string-array name="attributesType">
+        <item>@string/foodie</item>
+        <item>@string/religious</item>
+        <item>@string/thrilling</item>
+        <item>@string/chilling</item>
+        <item>@string/trekking</item>
+        <item>@string/entertainment</item>
+    </string-array>
+
+</resources>
